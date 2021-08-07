@@ -75,6 +75,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 .actions-container button:hover {
   background-color: hsl(245, 8%, 35%);
 }
