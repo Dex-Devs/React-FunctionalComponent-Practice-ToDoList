@@ -93,6 +93,10 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  -webkit-padding-before: 12px;
+  -webkit-padding-after: 12px;
+  -webkit-padding-start: 24px;
+  -webkit-padding-end: 24px;
   padding: 12px 24px;
   margin-bottom: 16px;
 }
