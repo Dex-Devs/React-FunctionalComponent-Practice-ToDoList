@@ -113,15 +113,20 @@ body {
   border: 1px solid hsl(252, 9%, 30%);
 }
 
-.todo-item {
+.todo-item-container {
   clear: both;
-  padding: 10px;
   margin: 10px auto;
   width: 90%;
   background-color: hsl(252, 9%, 30%);
   border-bottom: 1px solid white;
   font-size: 18px;
   color: white;
+}
+
+.todo-item {
+  display: block; 
+  width: 100%; 
+  padding: 8px;
 }
 
 
